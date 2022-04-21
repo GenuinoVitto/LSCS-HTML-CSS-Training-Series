@@ -1,0 +1,86 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    line-height: 50px;
+}
+
+/* making use of css animations */
+.nav {
+    color: white;
+    font-weight: bolder;
+    background-color: royalblue;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    transition: 0.5s;
+    max-width: auto;
+}
+
+.nav:hover {
+    background-color: rgb(35, 35, 95);
+}
+
+.container {
+    padding: 60px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#introduction {
+    text-align: center;
+}
+
+#education {
+    text-align: center;
+}
+
+#organizations {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    line-height: 30px;
+}
+
+#learn {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#social {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    padding-left: 0;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    margin: auto;
+}
+
+/* making use of unicode */
+.lkdn{
+    margin-top: 3px
+}.btn.lkdn:after{content:"\1F50E";padding-left:5px}
+
+.fcbk{
+    margin-top: 3px
+}.btn.fcbk:after{content:"\1F4D3";padding-left:5px}
+
+.gthb{
+    margin-top: 3px
+}.btn.gthb:after{content:"\1F408";padding-left:5px}
