@@ -20,6 +20,12 @@ HTML & CSS Session
 - form.html
 - form.css
 
+///* In this activity you will get acquainted with a number of CSS - Grid Layouts using HTML & CSS *///
 
+3rd Hands-on Activity [Folder - RND-Grid]
+
+///* In this activity you will get acquainted with CSS - Flexbox using HTML & CSS *///
+
+4th Hands-on Activity [Folder - RND-Flexbox]
 
 
