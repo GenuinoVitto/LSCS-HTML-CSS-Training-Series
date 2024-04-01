@@ -1,4 +1,5 @@
-# Research & Development Team Junior Officer Training Day 1
+# Research & Development Team 
+## Junior Officer Training Day 1
 This repository is meant for providing my junior officers with foundational knowledge on the Hyper Text Mark-Up Language and Cascading Style Sheets. 
 The first of the 3 part series is meant to prepare lower batches for their future courses and projects.
 
